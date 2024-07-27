@@ -1,7 +1,7 @@
 # Web:bit 基礎課程教學
 > 官方網站
 > 
-http://webuino.io/
+http://webduino.io/
 > 程式編輯器
 > 
 https://webbit.webduino.io/blockly/?demo=default
